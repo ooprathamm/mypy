@@ -9,6 +9,7 @@ docs/source/_build
 mypyc/doc/_build
 *.iml
 /out/
+.env
 .venv
 venv/
 .mypy_cache/
